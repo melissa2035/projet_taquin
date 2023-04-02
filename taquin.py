@@ -1,5 +1,5 @@
-#le jeu consiste en un puzzle constituait de 15 carrés numerotés  de 1  à 15, dans lequel une première configuration aléatoie est donné.
-#on nous demande donc de creer une interface graphique pour y jouer; on essayera egalement d'integrer des elements permettant de sauvegarder ou  bien recharger une partie, mais aussi un element permettant de remelanger la configuaration de base en cas ou non solutio
+#Le jeu consiste en un puzzle constituait de 15 carrés numerotés  de 1  à 15, dans lequel une première configuration aléatoie est donné.
+#On nous demande donc de creer une interface graphique pour y jouer; on essayera egalement d'integrer des elements permettant de sauvegarder ou  bien recharger une partie, mais aussi un element permettant de remelanger la configuaration de base en cas ou non solutio
 
 import random
 import tkinter as tk
